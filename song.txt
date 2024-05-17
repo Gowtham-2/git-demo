@@ -8,8 +8,4 @@ the end
 from the song believer
 
 some content added
-<<<<<<< HEAD
-here also
-=======
-here also
->>>>>>> dc29bae3d3e40c979e78df532f47387fb3a139f1
+
